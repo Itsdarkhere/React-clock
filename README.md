@@ -6,6 +6,6 @@ This is a freecodecamp project from the track 'Frontend libraries'
 Built with React and some css. 
 <hr/>
 
-Project is imo quite self explanatory, it is a clock with a countdown that you can adjust and after the time runs out, the break timer starts... *wow*.
+Project is imo quite self explanatory, it is a clock with a countdown that you can adjust and after the time runs out, the break timer starts... **wow**.
 
 ![](clock.gif)
